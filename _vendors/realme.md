@@ -1,4 +1,4 @@
----
+https://dontkillmyapp.com/realme---
 name: realme
 manufacturer:
   - realme
